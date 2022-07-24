@@ -13,6 +13,7 @@
 		5613A481288DDD2F00A77C5D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5613A47F288DDD2F00A77C5D /* Main.storyboard */; };
 		5613A483288DDD3100A77C5D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5613A482288DDD3100A77C5D /* Assets.xcassets */; };
 		5613A486288DDD3100A77C5D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5613A484288DDD3100A77C5D /* LaunchScreen.storyboard */; };
+		5613A48F288DDE0800A77C5D /* Views.png in Resources */ = {isa = PBXBuildFile; fileRef = 5613A48E288DDE0800A77C5D /* Views.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,8 @@
 		5613A482288DDD3100A77C5D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5613A485288DDD3100A77C5D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5613A487288DDD3100A77C5D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5613A48D288DDDFB00A77C5D /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		5613A48E288DDE0800A77C5D /* Views.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Views.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +43,7 @@
 		5613A46D288DDD2F00A77C5D = {
 			isa = PBXGroup;
 			children = (
+				5613A48D288DDDFB00A77C5D /* README.md */,
 				5613A478288DDD2F00A77C5D /* JPMC_takehome */,
 				5613A477288DDD2F00A77C5D /* Products */,
 			);
@@ -63,6 +67,7 @@
 				5613A482288DDD3100A77C5D /* Assets.xcassets */,
 				5613A484288DDD3100A77C5D /* LaunchScreen.storyboard */,
 				5613A487288DDD3100A77C5D /* Info.plist */,
+				5613A48E288DDE0800A77C5D /* Views.png */,
 			);
 			path = JPMC_takehome;
 			sourceTree = "<group>";
@@ -127,6 +132,7 @@
 			files = (
 				5613A486288DDD3100A77C5D /* LaunchScreen.storyboard in Resources */,
 				5613A483288DDD3100A77C5D /* Assets.xcassets in Resources */,
+				5613A48F288DDE0800A77C5D /* Views.png in Resources */,
 				5613A481288DDD2F00A77C5D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
