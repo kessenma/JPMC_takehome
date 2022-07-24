@@ -10,6 +10,17 @@ import Foundation
 
 
 
+// code to work with the NYC API https://data.cityofnewyork.us/resource/f9bf-2cp4.json
+struct ToDo:Decodable {
+    let dbn: String
+    let school_name: String
+    let num_of_sat_test_takers:String
+    let sat_critical_reading_avg_score:String
+    let sat_math_avg_score:String
+    let sat_writing_avg_score:String
+}
+
+// original code from youtube video
 //struct ToDo:Decodable {
 //    let userId: Int
 //    let id: Int
@@ -18,17 +29,6 @@ import Foundation
 //
 //
 //}
-
-//struct ToDo:Decodable {
-//    let dbn: String
-//    let school_name: String
-//    let num_of_sat_test_takers:String
-//    let sat_critical_reading_avg_score:String
-//    let sat_math_avg_score:String
-//    let sat_writing_avg_score:String
-//}
-
-
 
 // attempt 2
 //struct ToDo:Decodable {
