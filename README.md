@@ -1,6 +1,6 @@
 
 ### what I am trying to do: 
-![collapsed view + expanded view](NYC_Schools_SAT_API/Views.png)
+![collapsed view + expanded view](JPMC_takehome/Views.png)
 
 
 ###  Prompt:
